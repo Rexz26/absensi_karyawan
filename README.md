@@ -1,9 +1,9 @@
 # absensi_karyawan
 
-User
+User: localhost/absensi_karyawan/
 Email: orangpapuamanis@gmail.com
 Password: password
 
-Admin
+Admin: localhost/absensi_karyawan/admin/
 Username: admin
 Password: admin
